@@ -33,3 +33,6 @@ The following is a list of free or paid online courses on machine learning, stat
 * [Reinforcement Learning in Motion](https://www.manning.com/livevideo/reinforcement-learning-in-motion) - $
 * [Udemy A-Z Machine learning course](https://www.udemy.com/course/machinelearning/) - $
 * [Statistics and Probability-Khan Academy](https://www.khanacademy.org/math/statistics-probability) - $
+* [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning) - $
+* [Deep Learning with Python, Second Edition](https://www.manning.com/books/deep-learning-with-python-second-edition) - $
+* [Transfer Learning for Natural Language Processing](https://www.manning.com/books/transfer-learning-for-natural-language-processing) - $
