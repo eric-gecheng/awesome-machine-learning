@@ -11,6 +11,7 @@ The following is a list of free or paid online courses on machine learning, stat
 * [Intro to Deep Learning (MIT)](http://introtodeeplearning.com/)
 * [Stanford's CS20 Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si/)
 * [fast.ai](https://www.fast.ai/) - deep learning MOOC 
+* [Amazon's MLU-Explain](https://mlu-explain.github.io/) - Visual, Interactive Explanations of Core Machine Learning Concepts
 * [Machine Learning Specialization (University of Washington)](https://www.coursera.org/specializations/machine-learning) - Courses: Machine Learning Foundations: A Case Study Approach, Machine Learning: Regression, Machine Learning: Classification, Machine Learning: Clustering & Retrieval, Machine Learning: Recommender Systems & Dimensionality Reduction,Machine Learning Capstone: An Intelligent Application with Deep Learning; free
 * [Machine Learning Course (2014-15 session) (by Nando de Freitas, University of Oxford)](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) - Lecture slides and video recordings.
 * [Learning from Data (by Yaser S. Abu-Mostafa, Caltech)](http://www.work.caltech.edu/telecourse.html) - Lecture videos available
@@ -32,7 +33,21 @@ The following is a list of free or paid online courses on machine learning, stat
 * [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course) - $
 * [Reinforcement Learning in Motion](https://www.manning.com/livevideo/reinforcement-learning-in-motion) - $
 * [Udemy A-Z Machine learning course](https://www.udemy.com/course/machinelearning/) - $
-* [Statistics and Probability-Khan Academy](https://www.khanacademy.org/math/statistics-probability) - $
+* [Statistics and Probability-Khan Academy](https://www.khanacademy.org/math/statistics-probability) - free
 * [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning) - $
 * [Deep Learning with Python, Second Edition](https://www.manning.com/books/deep-learning-with-python-second-edition) - $
 * [Transfer Learning for Natural Language Processing](https://www.manning.com/books/transfer-learning-for-natural-language-processing) - $
+* [Grokking Artificial Intelligence Algorithms](https://www.manning.com/books/grokking-artificial-intelligence-algorithms) - $
+* [Learn ML from experts at Google](https://ai.google/education/) - free
+* [Kaggle courses on ML,AI and DS(certificate)](https://www.kaggle.com/learn/overview) - free
+* [Ml with python(Cognitive classes)](https://cognitiveclass.ai/courses/machine-learning-with-python) - free
+* [Intro to Data science(Cognitive classes)](https://cognitiveclass.ai/courses/data-science-101) - free
+* [Machine Learning for Business](https://www.manning.com/books/machine-learning-for-business) - $
+* [Transfer Learning for Natural Language Processing](https://www.manning.com/books/transfer-learning-for-natural-language-processing) - $
+* [In-depth introduction to machine learning in 15 hours of expert videos (by Prof. Trevor Hastie, Prof. Rob Tibshirani, Stanford)](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/) - free
+* [Data Scientist in Python (Dataquest)](https://www.dataquest.io/path/data-scientist/) - free and $
+* [AI Expert Roadmap - Roadmap to becoming an Artificial Intelligence Expert](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - free
+* [Semi-Supervised Deep Learning with GANs for Melanoma Detection](https://www.manning.com/liveproject/semi-supervised-deep-learning-with-gans-for-melanoma-detection) - $
+* [Interpretable AI](https://www.manning.com/books/interpretable-ai) - $
+* [Deploying a Deep Learning Model on Web and Mobile Applications Using TensorFlow](https://www.manning.com/liveproject/deploying-a-deep-learning-model-on-web-and-mobile-applications-using-tensorflow) - $ Hands-on project
+* [Complete Data Science and ML Course](https://www.scaler.com/data-science-course/) - $
